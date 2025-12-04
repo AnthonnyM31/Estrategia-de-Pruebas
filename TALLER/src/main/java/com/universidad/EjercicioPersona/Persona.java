@@ -1,6 +1,5 @@
 package com.universidad.EjercicioPersona;
 
-import javax.sound.sampled.Line;
 
 public class Persona implements PersonaInter {
     private String cedula;
